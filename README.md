@@ -4,3 +4,4 @@ Avec .each, il prend en compte tous les noms 1 par 1.
 Puis je demande à ma console d'exécuter l'envoi du tweet à chaque journaliste.
 client.update me sert à l'exécuter dans Twitter avec le message que je veux faire passer.
 Afin de ne pas se faire ban, j'ai rajouté la fonction sleep avec 5 secondes d'écart entre les envois du tweet.
+En ce qui concerne la partie en commentaire, elle est désormais inutile mais je préfère la laisser pour avoir une trace de ma réflexion.
